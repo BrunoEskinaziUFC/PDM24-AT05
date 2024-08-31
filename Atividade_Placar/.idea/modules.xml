@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Esqueleto_Placar.iml" filepath="$PROJECT_DIR$/.idea/modules/Esqueleto_Placar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Esqueleto_Placar.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
